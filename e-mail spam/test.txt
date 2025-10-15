@@ -1,0 +1,23 @@
+Spam-like emails:
+
+“Congratulations! You have won a $1,000 gift card. Click here to claim now.”
+
+“Urgent: Your account has been compromised. Verify your details immediately.”
+
+“Earn $5000 per week working from home. Sign up today!”
+
+“Limited time offer! Buy one, get one free. Don’t miss out!”
+
+“You’ve been selected for a free vacation to the Bahamas. Claim your ticket now.”
+
+Non-spam (legitimate) emails:
+
+“Hi John, can we reschedule our meeting to next Tuesday?”
+
+“Please find attached the quarterly sales report for your review.”
+
+“Thank you for your payment. Your invoice is attached for reference.”
+
+“Reminder: The team meeting is at 3 PM in Conference Room A.”
+
+“Can you provide feedback on the draft proposal by Friday?”
